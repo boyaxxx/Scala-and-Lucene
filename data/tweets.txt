@@ -1,0 +1,300 @@
+Has anyone rewritten Typeclassopedia for #Scala? http://bit.ly/lq3HB7 @bertails recommended it for #scalaz - but it is in #Haskell
+@channingwalton With no prior FP experience, I found Crockford's JavaScript book to be a real eye-opener - it helped me with Scala as well.
+RT @wadearnold: If your a #scala developer, buy your @strangeloop_stl ticket now before they are sold out! It has become a must attend  conference #promise
+I really wish people would stop blogging about how awesome #scala and #functionalprogramming are and blog more technical stuff.
+RT @itsnickcoleman: Yeah its #amp 2nite but the real party will be @ scala with @urban_nerds will be massive!!!
+RT @gridgain: Just because Lift/@dpp hasn't worked out w/Typesafe - it doesn't mean Scala won't succeed. As far as tooling - that's been largely solved.
+@greenido are you going to Programming Summer Camp in Crested Butte, July 25-29? http://tinyurl.com/3ntkqf2 #scala
+RT @dnene: "Scala works really well for top-tier teams and that's where you see most of Scala's penetration."  @dpp in http://ff.im/-Emnjq
+It seems anti-xml is not alone: http://scala-scales.googlecode.com/svn/sites/snapshots/scales/scales-utils_2.8.1/0.1/ScalesXmlIntro.html
+Yeah its #amp 2nite but the real party will be @ scala with @urban_nerds will be massive!!!
+If your a #scala developer, buy your @strangeloop_stl ticket now before they are sold out! It has become a must attend  conference #promise
+RT @debasishg: Managing parallelism: embrace diversity, but control side effects by SPJ .. http://goo.gl/49tX3
+@Nitish Sounds like a man screaming for Scala.
+on my way to meet @timperrett for a california roadtrip before scala days
+RT @cbeust: Nice overview of the functional landscape in general and of Scala in particular by @dpp   http://goo.gl/qE9Xq
+RT @hseeberger: All one has to do to use #Scala with the #playframework is "play install scala" and then "play new myproject --with scala". Amazingly easy!
+RT @hseeberger: All one has to do to use #Scala with the #playframework is "play install scala" and then "play new myproject --with scala". Amazingly easy!
+Spark: #MapReduce cluster computing framework for low-latency/in-memory iterative jobs - http://spark-project.org (via @ogrisel) #Scala
+a paean for using Scala for Android programs #programming http://is.gd/skqRBw
+COBOL was breakout language.  Uh... #scala #doesntneedtobe #let_the_masses_mass
+RT @hseeberger: All one has to do to use #Scala with the #playframework is "play install scala" and then "play new myproject --with scala". Amazingly easy!
+time for some @playframework with #scala
+RT @raichoo: We are #lambdapunk. We do not mutate, we do not assign. Expect us. #haskell #scala #functionalprogramming
+Interesting talk of @elise_huard about concurrency and actors at #euruko. @tonicebrian, Definitely I want to learn Scala :)
+@etorreborre cool :) my c# days r behind me 4 now tho so don't expect updates any time soon :) (teaching myself scala now)
+RT @MartinGross: Scala's AKKA actor library can be used directly from JRuby #euruko
+http://www.nujk.com/matching-case-classes-in-scala-a-b-match-case-a-b-gt-hellip  #scala #pattern #matching #case #class
+Scala's AKKA actor library can be used directly from JRuby #euruko
+We are #lambdapunk. We do not mutate, we do not assign. Expect us. #haskell #scala #functionalprogramming
+[#Haskell] Peyton Jones "Managing parallelism" http://tinyurl.com/parspj via @debasishg
+Scala development with IDEA Intellij and SBT -  http://bit.ly/lbMS0B
+#ChtiRUG #Redlang : Parallel Task #Redlang will have the "Actor" abstract layer like in #erlang #Scala
+RT @cbeust: Nice overview of the functional landscape in general and of Scala in particular by @dpp   http://goo.gl/qE9Xq
+Scala development with IDEA Intellij and SBT http://zite.to/mrhChU via @Ziteapp
+Getting started with Play Framework, Scala and Casbah http://zite.to/m3KnWE via @Ziteapp
+I just became the mayor of Muziekschool Scala on @foursquare! http://4sq.com/k9qASp
+Polling my hacker friends: what languages do you use at home but not at work? Getting back into Scala myself.
+RT @jonathanwatts: Herder's death deepens tensions in Inner Mongolia. My story from Xilinhot http://bit.ly/j4dUKN
+Scala Partners with Implementation Experts - ERP Software http://ow.ly/1cV1IR
+The busy Java developer's guide to Scala: Functional programming for the object oriented http://ff.im/-EojGP
+#Erlang, #Haskell, #F#, #Scala and the mainstream: http://t.co/bvWnbZC
+http://www.nujk.com/building-a-service-for-my-website-that-has-some-foursquare-features  #iphone #web #development #scala #geolocation #f
+Open-source Scala gains commercial backing http://bit.ly/igEPWy
+RT @yaaang: Quora's moving from (i.e. rewriting) all their Python to Scala! Daunting. They'll join Twitter, LinkedIn, & Foursquare in using Scala.
+RT @debasishg: Don't think @odersky ever planned 2 make Scala the break out functional lang. Nice post from @dpp on the genrl landscape http://goo.gl/LjBTu
+RT @yaaang: Quora's moving from (i.e. rewriting) all their Python to Scala! Daunting. They'll join Twitter, LinkedIn, & Foursquare in using Scala.
+activemq with scala: I have an app which retrieves an xml stream and does some computation on it  in scala. This... http://bit.ly/kki9QB
+It appears that many Ruby Python programmers are now diving into Scala Node and #golang.
+RT @pavelfatin: #IntelliJ #Scala plugin 0.4.1084 released: tame completion, better copy/paste, improved performance and... many more
+RT @debasishg: Don't think @odersky ever planned 2 make Scala the break out functional lang. Nice post from @dpp on the genrl landscape http://goo.gl/LjBTu
+RT @dcaoyuan: # scala corner case: ().isInstanceOf[Unit] is true, but classOf[Unit].isInstance(()) is false
+scala> classOf[Unit]\nres8: java.lang.Class[Unit] = void
+RT @playframework: @codemonkeyism Next version of Play scala will have pure Scala templates, and it uses simple return types, no more exceptions.
+RT @dcaoyuan: # scala corner case: ().isInstanceOf[Unit] is true, but classOf[Unit].isInstance(()) is false
+RT @matkar: Very intresting blog post from David Pollak @dpp http://t.co/1eeZADi about #Scala #Haskel #Erlang and F#
+Looking to learn a functional language and the paradigm before next year. Maybe Scala, but not 100% sure yet.
+RT @mariofusco: I think "Scala not being opinionated" is its biggest strength not a weakness. A multiparadigm language => you have lots of choices & freedom
+@trimblerob Managing parallelism: embrace diversity, but control side effects http://bit.ly/kaeG4b
+RT @m_st: Uh, just realized that implementing a Rename Package refactoring in Scala will be quite complex: is.gd/vZqEsL
+RT @dmarsh: Briefly discussing Scala: Mocking with Borachio at #stairway2scala. http://tinyurl.com/3be69jo
+@debasishg have you seen @dibblego suggestion on #scala-debate regarding a lens 'helper' compiler plugin?
+RT @antonarhipov: Advanced Scala Course by @typesafe http://typesafe.com/products/training I even start thinking maybe I'd give #Scala a second shot :)
+Yesterday I booked my ticket for attending Scala eXchange c/o Skill Matter in London. Now I just need to sort out logistic issues. :)
+RT @mariofusco: Scala's flexibility is also its winning point since you can adapt it to your needs case by case. No golden hammer, but a swiss army knife :)
+RT @ashalynd: RT @cbeust: Nice overview of the functional landscape in general and of Scala in particular by @dpp   http://goo.gl/qE9Xq
+Om 15 uur optreden met #themidges in scala meppel wish us luck:-)
+RT @aazarov: Very reasonable opinion on Scala and its ecosystem/tools by @dpp http://t.co/w46NiZk
+RT @mariofusco: Scala's flexibility is also its winning point since you can adapt it to your needs case by case. No golden hammer, but a swiss army knife :)
+RT @mariofusco: I think "Scala not being opinionated" is its biggest strength not a weakness. A multiparadigm language => you have lots of choices & freedom
+RT @pavelfatin: #IntelliJ #Scala plugin 0.4.1084 released: tame completion, better copy/paste, improved performance and... many more
+# scala corner case: ().isInstanceOf[Unit] is true, but classOf[Unit].isInstance(()) is false
+"Scala works really well for top-tier teams and that's where you see most of Scala's penetration." - @dnene
+RT @yaaang: Quora's moving from (i.e. rewriting) all their Python to Scala! Daunting. They'll join Twitter, LinkedIn, & Foursquare in using Scala.
+RT @cbeust: Nice overview of the functional landscape in general and of Scala in particular by @dpp   http://goo.gl/qE9Xq
+May not have been pretty but a win away from home u take it and run. Another warriors performance from Scala Burger.@markb46 @JohnoMeintjes
+Cheap Holiday to Scala: 14 Ngts, Double/twin Balcony - Bed and Breakfast Board, 2 Star, 2 PAX, Total cost:... http://bit.ly/lrlTPX Go2Deal
+Updating my #java brain to #scala. Progress  0%[xx   |     ]100%
+RT @dnene: "Scala works really well for top-tier teams and that's where you see most of Scala's penetration."  @dpp in http://ff.im/-Emnjq
+@wadearnold I'm not a #scala developer - but I have purchased my ticket @strangeloop_stl - see you in St. Louis in Sept!
+"All one has to do to use #Scala with the #playframework is “play install scala” and then “play new..." http://tumblr.com/xyw2q3ssov
+RT @gridgain: Just because Lift/@dpp hasn't worked out w/Typesafe - it doesn't mean Scala won't succeed. As far as tooling - that's been largely solved.
+RT @PlayFrameworkHQ: "All one has to do to use #Scala with the #playframework is “play install scala” and then “play new..." http://tumblr.com/xyw2q3ssov
+RT @antoine_sd: Before final shut up, the buzz words of #wsnparis : #nodejs #scala #clojure #Erlang #Html5 #WebSockets #CloudFoundry #cloudbees #cloudcloud
+@dmarsh Hate to miss Scala Summer Camp, but schedule too insane. Looks like a great group already!
+RT @joseanpg: [#Haskell] Peyton Jones "Managing parallelism" http://tinyurl.com/parspj via @debasishg
+RT @yaaang: Quora's moving from (i.e. rewriting) all their Python to Scala! Daunting. They'll join Twitter, LinkedIn, & Foursquare in using Scala.
+Who's joining us at @urban_nerds 4th Birthday @ Scala Kings Cross tonight? It's gonna be a MADNESS! http://p.ost.im/p/cPnbM
+RT @rickasaurus: RT @nraychaudhuri: RT @dnene: Must read. Functional Languages will Rule (but not this year) #scala #erlang #fsharp http://ff.im/-Emnjq
+RT @raichoo: I really wish people would stop blogging about how awesome #scala and #functionalprogramming are and blog more technical stuff.
+RT @raichoo: I really wish people would stop blogging about how awesome #scala and #functionalprogramming are and blog more technical stuff.
+RT @raichoo: I really wish people would stop blogging about how awesome #scala and #functionalprogramming are and blog more technical stuff.
+RT @cbeust: Nice overview of the functional landscape in general and of Scala in particular by @dpp   http://goo.gl/qE9Xq
+Learning more #Scala. I like the flexibility of the language. Slight resemblance to js in that regard. Other comparisons are mostly nil.
+RT @typesafe: An early preview of @typesafe's Migration Manager for #scala is now available: http://bit.ly/kTeQX7 (v0.1 previewed at #scaladays 2011)
+RT @dmarsh: My AnnArbor.com article is live: Scala training from last week and why companies transition to new languages. http://tinyurl.com/3t9829z
+3 shows 2nt ~ Maidstone ~ Pure Temp Scala london & Exposure @ Colleseum London who wants free tickets 2nt to see me live? ?
+RT @Cavortress: Photo: Whitney in Cavortress Swim 2011. Photo: Cyle Suesz. Sunglasses Lumete. Hat: Scala. Styling:... http://tumblr.com/xhq2u5zg7r
+Do any of my buds know #scala and if so what do you think of it?
+RT @mccv: Big difference at this Scala conf vs. 2009: switch from "this looks neat, are you hiring" to "we're in production, and we're hiring"
+Photo: Whitney in Cavortress Swim 2011. Photo: Cyle Suesz. Sunglasses Lumete. Hat: Scala. Styling:... http://tumblr.com/xhq2u5zg7r
+RT @jorgeortiz85: The innovation and excitement around Scala was palpable this week. So many more companies embracing it, so much cool tech being built on it.
+RT @mccv: Big difference at this Scala conf vs. 2009: switch from "this looks neat, are you hiring" to "we're in production, and we're hiring"
+RT @mccv: Big difference at this Scala conf vs. 2009: switch from "this looks neat, are you hiring" to "we're in production, and we're hiring"
+RT @mccv: Big difference at this Scala conf vs. 2009: switch from "this looks neat, are you hiring" to "we're in production, and we're hiring"
+RT @jamesiry: Allow me to sum up Scala Days 2011: multi-core; distributed; applicative; and we're hiring.
+Scala is a really satisfying language, but I'm not convinced that static typing is worth the complexity.  If you must, tho, Manifests rule.
+RT @jorgeortiz85: The innovation and excitement around Scala was palpable this week. So many more companies embracing it, so much cool tech being built on it.
+@SeanJA Ok, 2 hours this afternoon to learn scala, 2 hours tomorrow to detect spam.
+RT @DJ_Link RT @stevestreeting: Google pits C++ against Java, Scala, and Go http://flpbd.it/7sEK #in
+RT @jorgeortiz85: The innovation and excitement around Scala was palpable this week. So many more companies embracing it, so much cool tech being built on it.
+RT @michaelg: One of the reasons we use Scala at Bump is to attract better engineers. #scala
+RT @jorgeortiz85: The innovation and excitement around Scala was palpable this week. So many more companies embracing it, so much cool tech being built on it.
+As much as I like the Google Paper comparing #c++, #java, #scala and #go it is a shame that scalac is by far the slowest compiler.
+Amen! RT @michaelg: One of the reasons we use Scala at Bump is to attract better engineers.
+RT @jorgeortiz85: The innovation and excitement around Scala was palpable this week. So many more companies embracing it, so much cool tech being built on it.
+Can anyone recommend a good comparison on parallellism in recent "sexy" languages? (ie Scala, Haskell, etc) Bonus points if compares to MPI.
+The innovation and excitement around Scala was palpable this week. So many more companies embracing it, so much cool tech being built on it.
+RT @TacticalGrace: @donsbot @al3x @built @philtor Scala is a compromise—a great compromise but a compromise. Haskell is the incarnation of being uncompromising
+Decided to try and build #sbt from source. It's taking a long long time... #scala
+#Haskell and #Scala pointed as a promising solution for easy multicore parallelization in an Economist article  http://econ.st/jOKgZM
+http://tinyurl.com/3cum98q \nsimplex3d - Scala 3D engine with modular architecture. - Google Project Hosting
+RT @dpp: “@wmacgyver: Vmware announces #scala support, including #lift http://t.co/VpAK8NV” cool!!
+RT @jboner: We just open sourced the AspectJ sbt plugin we are using for the commercial Akka modules: http://t.co/zCJ0FFV #scala #sbt #aspectj
+RT @dnene: "Scala concise notation & powerful language allowed\nbest optimization of code complexity" http://goo.gl/rnuhZ #scala #java #go benchmrk(PDF)
+@debasishg @jamesiry I call it scala-zed, since UK English, but it's no big deal right?
+RT @TacticalGrace: @donsbot @al3x @built @philtor Scala is a compromise—a great compromise but a compromise. Haskell is the incarnation of being uncompromising
+RT @sdouche: Why Java folks should look forward to Scala #scala - http://bit.ly/mJSoU8
+Cloud Foundry Adds Scala Support to Its PaaS http://zite.to/jXrAEa
+RT @gozali: Google pits C++ against Java, Scala, and Go • The Register http://feedly.com/k/jU5Dd4
+Google pits C++ against Java, Scala, and Go • The Register http://feedly.com/k/jU5Dd4
+Read Hundt's paper on #Java #Scala #C++ #Go. Compels me to learn Scala for speed-simplicity. Would like to see web methodologies vs #python.
+RT @urbankingonline: RT “@MightyMoe: 'Pure Temptation' tonight! Scala, Kings X > dep on the dubstep 4-5am alongside @DJHATCHA #keepyourbubblestrong”
+RT @mightymoe: 'Pure Temptation' tonight! Scala, Kings X > dep on the dubstep 4-5am alongside @DJHATCHA #keepyourbubblestrong
+@thecoda ofc ... It's always but since scala and scaladays tract more and more attention sponsors should become more easily available?
+Scala - Data munging in Scala: easy way to read a text file in as an array of lines? http://ff.im/-EVo0i
+RT @dnene: Viral! (after Scala, Ruby, Clojure, Python, Haskell, C#, F#),  10 Groovy One Liners to Impress Your Friends  http://goo.gl/QR2EN
+Nice RT @mariofusco #Scala faster then #Java in #Google benchmark http://yfrog.com/z/h8o7qhdj
+RT @typesafe: An early preview of @typesafe's Migration Manager for #scala is now available: http://bit.ly/kTeQX7 (v0.1 previewed at #scaladays 2011)
+@donsbot Haskell and Scala are polar opposites on most points. They converge a bit on datatype generic progamming. (@al3x @build @philtor)
+RT “@MightyMoe: 'Pure Temptation' tonight! Scala, Kings X > dep on the dubstep 4-5am alongside @DJHATCHA #keepyourbubblestrong”
+#Scala makes the buzz. But what about #Groovy ?
+'Pure Temptation' tonight! Scala, Kings X > dep on the dubstep 4-5am alongside @DJHATCHA #keepyourbubblestrong
+RT @typesafe: #Scala highlighted in article from @TheEconomist on parallel programing and multicore: http://econ.st/jkGchu @typesafe
+Why Java folks should look forward to Scala #scala - http://bit.ly/mJSoU8
+Without anointing a king, it's nice to finally have choice with Scala IDEs, eclipse, Idea and ENSIME are all good enough for day to day use.
+Bagel: an implementation of Pregel on Spark using #scala: http://j.mp/kd4ogW
+"Scala, beautifully designed site, rave reviews from HN, MVC, and AppEngine compatibility...." http://tumblr.com/xyw2u4bfzc
+RT @ThierryAbalea: @jlamande Scala won over Java due to the bad data structures choice http://goo.gl/vsDwi
+RT @Jose_A_Alonso: 10 #Scala One Liners to Impress Your Friends. http://bit.ly/isEybq
+http://dotat.at/:/M69ND - A benchmarking case study of C++, Java, Scala, and Go.
+RT @jamesiry: Allow me to sum up Scala Days 2011: multi-core; distributed; applicative; and we're hiring.
+RT @jamesiry: Allow me to sum up Scala Days 2011: multi-core; distributed; applicative; and we're hiring.
+Google pits C++ against Java, Scala, and Go • The Register http://bit.ly/jVvbTB
+And, to be honest, I disliked the highlighting done by source-highlight, at least with Scala. So it's still view instead of less for that.
+RT @jamesiry: "Allow me to sum up Scala Days 2011: multi-core; distributed; applicative; and we're hiring." -- hmm, maybe I'll go some day
+Viral! (after Scala, Ruby, Clojure, Python, Haskell, C#, F#),  10 Groovy One Liners to Impress Your Friends  http://goo.gl/QR2EN
+OMG ! My "#Scala in practice" presentation is on the home page of Slideshare in Linkedin section :-)
+10 #Scala One Liners to Impress Your Friends. http://bit.ly/isEybq
+RT @Stratalux: Cloud Foundry Adds Scala Support to Its PaaS  http://tiny.ly/yfzK
+@jlamande Scala won over Java due to the bad data structures choice http://goo.gl/vsDwi
+Google #C++/#Java/#Go/#Scala perf bench http://goo.gl/oPnE1. Scala won over Java due to the bad data structures choice http://goo.gl/vsDwi
+RT @robey: scala days was pretty motivating and full of good ideas. i wanna be cynical about it but i can't!
+RT @anastasop: Google published a paper benchmarking C++, Java, Scala and Go at https://days2011.scala-lang.org/sites/days2011/files/ws3-1-Hundt.pdf
+RT @mariofusco: The slides of my #scaladays presentation about #hammurabi #scala rule engine are available here:... http://ff.im/-EV90Z
+@BradleyBlackwel @jimmydavisdavis @jpdoublebass @edsheeran @lukeconcannon Ed: Scala Jul 6 Me: Green Note Jul 7. Something round that?
+RT @odersky: Scalala looks like a great Matlab-like solution, integrated in the Scala REPL. #scaladays
+Fucking around with Scala.
+Good luck to all the fams that are writing that dreadful long ass SAT @killademwant_  & scala, vaikla, eli, good luck family !
+RT @timbray: 10 1-liners in CoffeeScript http://goo.gl/WTOIr, Scala, http://goo.gl/81XR2, and Ruby http://goo.gl/SaVVH Which turns your crank?
+RT @guilhermecaelum: i'm really liking #scala, but i really disagree justifying a feature x by saying x is impossible in another language. #encapsulationissue
+RT @mariofusco: The slides of my #scaladays presentation about #hammurabi #scala rule engine are available here: http://slidesha.re/mG0f1S
+However its results are not accepted even inside google. Look at http://goo.gl/pRDFN for Go and http://goo.gl/99oKO for Java
+Google published a paper benchmarking C++, Java, Scala and Go at https://days2011.scala-lang.org/sites/days2011/files/ws3-1-Hundt.pdf
+RT @edd: This Google paper adds to the evidence that Scala is a respectable development option http://edd.me/l4kTcl #scala #osconj
+RT @odersky: Scalala looks like a great Matlab-like solution, integrated in the Scala REPL. #scaladays
+RT @raichoo: "What do <:<, <%<, and =:= mean in #scala 2.8, and where are they documented?" http://t.co/n5pcPmx #stackoverflow
+My next personal appearance is at Scala Exchange June 15-16 Londonhttp://tinyurl.com/3kykobv. Thank you #skillsmatter #scalalang
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+RT @TacticalGrace: Okayyy.. iPad app that is a lisp interpreter written in Haskell by David Pollak creator of the Scala web framework Lift http://bit.ly/ldx4X9
+Richmond Fontaine are going to perform Post To Wire in full on September 27 at Scala. this will be incredible / emotional.
+RT @jxstanford: #scalaxb and #salat - a match (almost) made in heaven.  both have amazingly responsive caretakers, both work with #scala case classes.
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+Tod 's to Save La Scala in Addition to Colosseum  #Northernitaly http://t.co/iPQv3JG
+Ozma is cool stuff. “@vaclav_pech: Oz in Scala disertation http://t.co/nCkGStn (also a nice intro into dataflow concurrency)” #oz #scala
+RT @mttmfeed: fancy winning tickets to the awesome @wakeywakey at the Scala on 14th June? RT before 5pm Monday for your chance to win a pair of tickets
+Luxe shoemaker Tod's pledges latest aid to La Scala http://reut.rs/ksYHVM
+Workin till 8 #La Scala
+@mariofusco @odersky @milessabin I wouldn't put that into prod because it's a bit crazy, but adding it to scala itself as "v" would be nice.
+Italy : Luxe shoemaker Tods pledges latest aid to La Scala - Reuters http://uxp.in/37326925
+RT @ikai: It's funny when people try to use Lift to try to learn Scala. You just picked an impossible to learn web framework to learn a hard language
+Me mite jus reach scala tonite if me day continue like this
+can someone point me to some non-OO FOSS code in Scala?
+RT @reddit_haskell: iPad app that is a lisp interpreter written in haskell by David Pollak, creator of the Scala web framework Lift. http://bit.ly/ldx4X9
+Good news! RT @ItalyMagazine Tod's to save La Scala in addition to Colosseum #italy #milano #opera http://goo.gl/ZlfHO
+Re: June Monthly meetup: Guys Looks interesting tomorrow with one more new topic! Tamil-Java :)  with Scala, Jav... http://bit.ly/jVlTMb
+Scala/lift, i'm finally starting to think i'm figuring you out. guess that means i'm still waaaaay off.
+Why we're loving Tod's right now: The designer's saving the #Colosseum AND La #Scala! http://reut.rs/ksyCR7 #Milan #Rome #Italy #opera
+RT @mttmfeed: fancy winning tickets to the awesome @wakeywakey at the Scala on 14th June? RT before 5pm Monday for your chance to win a pair of tickets
+@DrElfy Good stuff. Pleased you like it. I'm looking forward to the Scala gig, Just hope I turn up on the right day!
+RT @ikai: It's funny when people try to use Lift to try to learn Scala. You just picked an impossible to learn web framework to learn a hard language
+RT @mttmfeed: fancy winning tickets to the awesome @wakeywakey at the Scala on 14th June? RT before 5pm Monday for your chance to win a pair of tickets
+@Jacquerada Scala, below Scala Theater at Siam Square. Its Chinese.
+RT @Phobia_Facts: In latin Ambulosubscalaphobia means the following, Ambulo - walk, sub - under & scala - ladder.
+Google Publishes C++, Go, Java and Scala Performance Benchmarks by @klintron http://t.co/pOYbDNz via @RWW
+1 ticket for sale Scala in London *6th july* @edsheeran @EdSheeranFans @EdSheeranUO
+RT @rubyplaza: RT @LucysSister omg...amazingly gorgeous Scala Gold Beaded Cocktail Party Soiree Dress 10: http://t.co/k7VBe6E   #RubyPlaza
+@viktorklang cool man, enjoy. Have you posted your slides from Scala Days yet?
+I posted 21 photos on Facebook in the album "Tune Yards @ Scala, 8 June 2011" http://fb.me/ym5llV6o
+RT @vaclav_pech: Oz in Scala disertation http://bit.ly/kUAjcn (also a nice intro into dataflow concurrency)
+Scala: "He looks very much like the absent-minded professor. I'm a professor, and that's not a desirable place for... http://fb.me/W3xCwVFH
+Did you enjoy @weakreference at #dddx today? Come to #FLUG on Jul 4, talks from Mike Hadlow & Gian Ntzik: http://bit.ly/iSYbVH #Fsharp
+Luxe shoemaker Tod 's pledges latest aid to La Scala  http://t.co/v1ZC1Vb
+RT @gnejs: Hacking #osgi modules in both #scala and #java. #akka and #vaadin thrown in for good measure. Fun!
+All politics is local: Dante Scala @graniteprof complains Gingrich is giving absent-minded professors a bad name: http://alturl.com/7fnom
+Bald-head scala-wag
+Scala: In just a matter of weeks, Gingrich has gone from celebrated conservative visionary to the Uncle Fester of the Republican Party.
+RT @ChrisDiehl: RT @DataJunkie: Spark: "Lightning-Fast Cluster Computing" Based on Scala, supposedly outperforms Hadoop: http://www.spark-project.org/
+RT @mttmfeed: fancy winning tickets to the awesome @wakeywakey at the Scala on 14th June? RT before 5pm Mon for your chance to win tix
+RT @odersky: Wrote blog post: Recap of Scala Days. http://bit.ly/jH62m7
+On air: Scala - The Perfume Of Love. #Apple #IPhone #IPad user? Download our #disco #webradio #app for free! Visit #AppStore !
+Just bought tickets to see @AlexisJordan at Scala London on 30th June! Gonna be Awesomee! xx
+It's going to be a high octane day.  Adding Scala nature to Java projects.
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+I liked a @YouTube video http://youtu.be/8X-GoR_XYDw?a Jessie J "Big White Room" Live At Scala Jan 17th
+RT @jaredbrown: Typesafe — Stack: Overview (for deploying Scala apps) http://tlnt.co/p/rp
+Wah Wah Live at the Scala - Oct 15 2011 - Line up announced | Wah ...: Tickets will be £20 on the door, £15 in a...  http://bit.ly/b6xyyB
+RT @Phobia_Facts: In latin Ambulosubscalaphobia means the following, Ambulo - walk, sub - under & scala - ladder.
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+Luxe shoemaker Tod's pledges latest aid to La Scala      (Reuters) http://ow.ly/1d9Zfj
+Luxe shoemaker Tod's pledges latest aid to La Scala      (Reuters) http://ow.ly/1d9Zfl
+@GreavesIan Magic Band at the Scala!
+Got mine! RT @atpfestival   Finally Superchunk and Let's Wrestle at London Scala also on sale now: http://bit.ly/jzs09j
+RT @Nicetweets_: RT @Phobia_Facts: In latin Ambulosubscalaphobia means the following, Ambulo - walk, sub - under & scala - ladder.
+just joined scala user group münchen http://t.co/eVi2X9N
+Really looking forward to the scala talks later.
+@oxbow_lakes Also that is not possible to use union types with higher order functions (which I needed) http://t.co/4RhOgiS /cc @milessabin
+Halfway point at the TW tech conf, good to see scala and clojure are fully om their radar.
+RT @Phobia_Facts: In latin Ambulosubscalaphobia means the following, Ambulo - walk, sub - under & scala - ladder.
+@yreynhout @gregyoung tentative goal is simple, clear, documented OSS aggregate/saga message store for #scala #jvm to help ppl get started
+RT @LifeinSicily: Luxe shoemaker #Tod's pledges latest aid to La Scala http://t.co/e5rN5HG via @reuters #opera #Italy
+RT @WeirdTrueFact: RT @Phobia_Facts: In latin Ambulosubscalaphobia means the following, Ambulo - walk, sub - under & scala - ladder.
+RT @Phobia_Facts: In latin Ambulosubscalaphobia means the following, Ambulo - walk, sub - under & scala - ladder.
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+#FF @WakeyWakey coming to town next week all the way from NYC to play at the Scala on tuesday the 14th I'm going, you should come too ; ) x
+RT @El_Picador: 99 Scala Problems : http://t.co/BhIAK2l. Great way to lean #scala
+15 days & counting till #ROAST's 20Th BIRTHDAY @scalalondon, tkts on sale now @ usual outlets & scala box office. ;)
+scala type programming resources - Stack Overflow http://ff.im/-Fpuy7
+apparently @markhneedham  is the first hit for "streams scala"
+i can't wait to see Totally Enormous Extinct Dinosaurs (@TEEDinosaurs) next week Thursday at Scala. OMG it is going to be amaaaazing.
+can announce new shows - AVI BUFFALO 12 July / HEATHER NOVA 29 Nov / THE MAGIC BAND 30 Nov / SUPERCHUNK 1 Dec... http://bit.ly/loZiUQ
+RT @DataJunkie: Spark: "Lightning-Fast Cluster Computing" Based on Scala, supposedly outperforms Hadoop: http://t.co/bmNTluv
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+RT @vaclav_pech: Oz in Scala disertation http://bit.ly/kUAjcn (also a nice intro into dataflow concurrency)
+RT @remeniuk: I love that kind of questions/answers at #SO -> @mariofusco #Scala type programming resources http://t.co/DMaLWoY
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+RT @mttmfeed: fancy winning tickets to the awesome @wakeywakey at the Scala on 14th June? RT before 5pm Monday for your chance to win a pair of tickets
+scala on stackoverflow: Why can't this scala class call a protected method on an instance of… http://goo.gl/fb/AI9bc
+scala on stackoverflow: How to find exceptions that were "ignored"? http://goo.gl/fb/jQNTc
+scala on stackoverflow: Can I create a tuple from a non-comma separated set of tokens in… http://goo.gl/fb/GrxQP
+scala on stackoverflow: How can I import all unimported classes in Scala IDE? http://goo.gl/fb/58xDv
+scala on stackoverflow: Cannot reduce an Iterator? http://goo.gl/fb/8RC8k
+I love that kind of questions/answers at #SO -> @mariofusco #Scala type programming resources http://t.co/DMaLWoY
+#Cardo Scala-rider Bluetooth Headset #preisvergleich http://inbrd.de/mm3 Bewertung MOT-STORE Dainese-Corner #test #Cardo
+RT @pcalcado: i hope scheme is one of the 1231231 ways of idiomatic scala or my team mates will want my head.
+Watching "Super 8" at Scala theatre.
+A test tweet from a scala-labs unit test. This test was run by Urs on 1307705355835
+The Junto Label Propagation Toolkit v1.1 is out! Now w/ API. Apache license. #java #scala #ml #nlproc http://code.google.com/p/junto/
+Donated #duse #akka traffic lights tutorial to #scala labs. check out scala labs http://j.mp/iRzuaM
+RT @mariofusco: #Scala type programming resources http://t.co/cIZaa9F << a good explanation and many links to posts and papers about scala's type system
+@rollinsruss Good call. I'll release 1.1 for 0.7.x soon. Let me know when you need the scala-tools.org credentials.
+@rich__wilson? RT @TLOBF: Richmond Fontaine are going to perform Post To Wire on Sept' 27 at Scala. this will be incredible / emotional.
+RT @Phobia_Facts: In latin Ambulosubscalaphobia means the following, Ambulo - walk, sub - under & scala - ladder.
+I liked a @YouTube video http://youtu.be/evG2DDmSdxM?a scala creep radiohead
+“@GeorgeReese: Java 7? meh” I wish scala performed better.  Java is new COBOL.
+#Clojure 1.2.1 released! download from: http://t.co/lySg6Q0 #programming #java #jvm #functional #scala #lisp #ironscheme #scheme #fsharp
+RT @Phobia_Facts: In latin Ambulosubscalaphobia means the following, Ambulo - walk, sub - under & scala - ladder.
+Gorgeous SCALA Gold Beaded Cocktail Party Soiree Dress 10: http://t.co/RofQHUl via @rubyplaza  wow. wowowowow!!!!
+only 1 week left until the next @ultimatepower at Scala, dont miss out on the last few tickets!
+i really like this @SpringRoo survey question: Which languages are important to your future projects? and i choose: #Scala, of course!
+RT @DataJunkie: Spark: "Lightning-Fast Cluster Computing" Based on Scala, supposedly outperforms Hadoop: http://t.co/bmNTluv
+@Shoebox1976uk Could be a yes as it's at the Scala, so depends on last train really.
+@yawdogs Scala, Android, Schema.org Microdata and a Facebook app feat. Raphael JS. Not all at once.
+RT @carlosqt: #Clojure 1.2.1 released! download from: http://t.co/lySg6Q0 #programming #java #jvm #functional #scala #lisp #ironscheme #scheme #fsharp
+@lizkjones Scala I think
+RT @peter_pilgrim: My next personal appearance is at Scala Exchange June 15-16 Londonhttp://tinyurl.com/3kykobv. Thank you #skillsmatter #scalalang
+Recently found out that @x0celentano got with mike scala
+The Junto Label Propagation Toolkit v1.1 is out! Now w/ API. Apache license. #java #scala #ml #nlproc http://code.google.com/p/junto/
+Fixing the syntax highlighting for Scala in Sublime Text 2 is actually pretty easy: http://bit.ly/k7MaAk
+S-99: Ninety-Nine Scala Problems http://ff.im/-FqnmS
+oops, a link would probably help.  http://t.co/1wRwWjO #scala /cc @gliao
+OUT NOW: Chris Willis - Louder (Digi Single) ft Remixes Jupiter Ace, Whelan & Di Scala, STFU http://bit.ly/chriswillislouder
+scala-labs looks like a promising learning resource.  #scala /cc @gliao
+RT @scalalondon: only 1 week left until the next @ultimatepower at Scala, dont miss out on the last few tickets!
+google and books not helping: equiv to letrec in scala? (help before i yak shave the hell out of a y-combinator) #mytw
+Google tests C++, Java, Scala and Go for speed. http://t.co/zRMr6EV Discovers C++ still fastest and most hated lang. #fortran4ever #hpc
+RT @RayRoestenburg: Donated #duse #akka traffic lights tutorial to #scala labs. check out scala labs http://j.mp/iRzuaM
+Jus ova an hour to go b4 i board my train to London @SocaFrenzy gettin chrissen by @edwinyearwood 2nite Scala nah gd again
