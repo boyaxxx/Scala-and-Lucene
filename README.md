@@ -13,7 +13,7 @@ If you aren't interested in using sbt, you can browse the source and see how it'
 
 If you aren't interested in scala, well then you're in the wrong spot.
 
-
+```
   $ sbt
 
 	// create index
@@ -24,4 +24,4 @@ If you aren't interested in scala, well then you're in the wrong spot.
 	
 	// perform search
 	> run query plat 
-	
+```
